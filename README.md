@@ -6,7 +6,7 @@ This collection showcases my practice and learning journey in algorithmic proble
 - Clear explanations of the problem and my approach.
 - Insights into my thought process and coding techniques.
 - Code organized for easy navigation and reference.
-- 
+
 Happy coding!
 
 # Repository Structure
@@ -17,7 +17,8 @@ The solutions are categorized as follows:
 - Easy
 - Medium
 - Hard
-By Topic: (If applicable in subfolders)
+
+## By Topic: (If applicable in subfolders)
 
 - Array
 - String
