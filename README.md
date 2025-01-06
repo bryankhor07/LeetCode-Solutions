@@ -30,5 +30,5 @@ The solutions are categorized as follows:
 # How to Use This Repository
 
 1. Navigate to the appropriate folder based on the problem's difficulty or topic.
-2. Each file is named with the format: problem-name.py.
+2. Each file is named with the format: ProblemName.py.
 3. Open the file to view the solution along with an explanation and complexity analysis.
